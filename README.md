@@ -1,3 +1,8 @@
+# NAME:CS KIRAN KUMAR
+# REF NO:24002365
+# EXP NAME:
+
+
 ### study-of-basic-gates
 
 **AIM:** 
